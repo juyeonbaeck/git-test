@@ -7,6 +7,7 @@
         <td width="60%" valign="top">
         <div>
             <h3>🧑‍💻 About MEEEEEE!!!push push</h3>
+            <h3>🧑‍💻 About 주우연</h3>
             <a href="https://git.io/typing-svg">
                 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=6A5ACD&width=435&lines=Creative+Developer;Fast+Learner;Open+Source+Contributor" alt="Typing SVG" />
             </a>
