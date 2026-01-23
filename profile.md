@@ -1,176 +1,144 @@
-<div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&text=GITHUB%20by%20Juyeon&animation=fadeIn&fontColor=000000&fontSize=35" width="100%" />
-</div>
+# 🏦 Hybrid Cloud Financial Banking System (Woori-Next-PoC)
 
-<table border="0" width="100%">
-    <tr>
-        <td width="60%" valign="top">
-        <div>
-            <h3>🧑‍💻 About MEEEEEE!!!push push</h3>
-            <h3>🧑‍💻 About 주우연</h3>
-            <a href="https://git.io/typing-svg">
-                <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=6A5ACD&width=435&lines=Creative+Developer;Fast+Learner;Open+Source+Contributor" alt="Typing SVG" />
-            </a>
-            <h3>🛠️ Tech Stack</h3>
-            <div style="margin: ; align: center;">
-            <table>
-                <thead>
-                    <tr>
-                        <th align="left" width="15%">Category</th>
-                        <th align="left" width="50%">🚀 Experienced</th>
-                        <th align="left" width="35%">📚 Currently Learning</th>
-                    </tr>
-                </thead>
-                <tbody>
-                    <tr>
-                        <td align="left"><b>Language</b></td>
-                        <td align="left">
-                                <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white" style="pointer-events: none;">
-                            <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white">
-                            <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white">
-                            <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=MySQL&logoColor=white">
-                            <img src="https://img.shields.io/badge/Shell_Script-4EAA25?style=flat-square&logo=GNU%20Bash&logoColor=white">
-                        </td>
-                        <td align="left">
-                                <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white">
-                        </td>
-                    </tr>
-                    <tr>
-                        <td align="left"><b>Backend</b></td>
-                        <td align="left">
-                            <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=Spring%20Boot&logoColor=white">
-                            <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white">
-                            <img src="https://img.shields.io/badge/Servlet-007396?style=flat-square&logo=Java&logoColor=white">
-                            <img src="https://img.shields.io/badge/JSP-007396?style=flat-square&logo=Java&logoColor=white">
-                            <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat-square&logo=Spring%20Security&logoColor=white">
-                            <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=JSON%20Web%20Tokens&logoColor=white">
-                        </td>
-                        <td align="left"></td>
-                    </tr>
-                    <tr>
-                        <td align="left"><b>WAS</b></td>
-                        <td align="left">
-                            <img src="https://img.shields.io/badge/Tomcat-F8DC75?style=flat-square&logo=Apache%20Tomcat&logoColor=black">
-                        </td>
-                        <td align="left"></td>
-                    </tr>
-                    <tr>
-                        <td align="left"><b>Frontend</b></td>
-                        <td align="left">
-                            <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white" style="pointer-events: none;">
-                            <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white">
-                            <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black">
-                            <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white">
-                        </td>
-                        <td align="left">
-                            <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=Vite&logoColor=white">
-                        </td>
-                    </tr>
-                    <tr>
-                        <td align="left"><b>RDBMS</b></td>
-                        <td align="left">
-                            <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white">
-                            <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white">
-                            <img src="https://img.shields.io/badge/mongodb-47A248?style=flat-square&logo=mongodb&logoColor=white">
-                        </td>
-                        <td align="left">
-                        </td>
-                    </tr>
-                    <tr>
-                        <td align="left"><b>NoSQL</b></td>
-                        <td align="left">
-                            <img src="https://img.shields.io/badge/ElasticSearch-005571?style=flat-square&logo=Elasticsearch&logoColor=white">
-                        </td>
-                        <td align="left"></td>
-                    </tr>
-                    <tr>
-                        <td align="left"><b>DevOps</b></td>
-                        <td align="left">
-                        </td>
-                        <td align="left">
-                            <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white">
-                            <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white">
-                            <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white">
-                            <img src="https://img.shields.io/badge/OpenShift-EE0000?style=flat-square&logo=Red%20Hat%20OpenShift&logoColor=white">
-                        </td>
-                    </tr>
-                    <tr>
-                        <td align="left"><b>Infrastructure</b></td>
-                        <td align="left">
-                            <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=black">
-                            <img src="https://img.shields.io/badge/VirtualBox-183A61?style=flat-square&logo=VirtualBox&logoColor=white">
-                            <img src="https://img.shields.io/badge/VMware-607078?style=flat-square&logo=VMware&logoColor=white">
-                        </td>
-                        <td align="left">
-                            <img src="https://img.shields.io/badge/OpenStack-DA291C?style=flat-square&logo=OpenStack&logoColor=white">
-                        </td>
-                    </tr>
-                    <tr>
-                        <td align="left"><b>Tools</b></td>
-                        <td align="left">
-                            <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white">
-                            <img src="https://img.shields.io/badge/eclipse%20ide-2C2255?&style=flat-square&logo=eclipse%20ide&logoColor=white" />
-                            <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat-square&logo=IntelliJ%20IDEA&logoColor=white">
-                            <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white">
-                            <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white">
-                        </td>
-                        <td align="left"></td>
-                    </tr>
-                    <tr>
-                        <td align="left"><b>Collaborations</b></td>
-                        <td align="left">
-                            <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white">
-                            <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white">
-                            <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white">
-                        </td>
-                        <td align="left"></td>
-                    </tr>
-                    <tr>
-                        <td align="left"><b>Cloud</b></td>
-                        <td align="left">
-                            <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white">
-                            <img src="https://img.shields.io/badge/Amazon%20EC2-FF9900?style=flat-square&logo=Amazon%20EC2&logoColor=white">
-                            <img src="https://img.shields.io/badge/Amazon%20S3-569A31?style=flat-square&logo=Amazon%20S3&logoColor=white">
-                        </td>
-                        <td align="left"></td>
-                    </tr>
-                </tbody>
-            </table>
-        </div>
-           
-                
-        </td>
-        <td>
-        </td>
-    </tr>
-            
-        <h3></h3>
-        </div>
-        
-    
-    </tr>
+## 📖 Project Overview
+본 프로젝트는 **금융권 차세대 시스템**을 위한 **Hybrid MSA 아키텍처** 검증(PoC) 모델입니다.
+**AWS Public Cloud(채널계)**의 확장성과 **On-Premise(계정계)**의 보안성을 결합하여, 실제 금융 서비스에서 발생하는 트래픽 폭주, 분산 트랜잭션, 네트워크 장애 상황에 대한 기술적 해결책을 제시합니다.
+
+## 🏗 Architecture
+![Architecture Diagram](./docs/images/architecture_overview.png)
+*(여기에 아키텍처 다이어그램 이미지를 삽입하세요)*
+
+### 1. Zone & Components
+| Zone | Role | Infrastructure | Key Tech Stack |
+| :--- | :--- | :--- | :--- |
+| **☁️ Cloud (AWS)** | 채널/이벤트 | **AWS EKS** (Managed K8s) | Spring Boot, Aurora MySQL, **Redis**, Kafka |
+| **🏢 On-Premise** | 코어/원장 | **Ubuntu Metal** (Kubeadm) | Spring Boot, **Oracle DB**, Docker |
+| **🌉 Bridge** | 보안 연결 | **Tailscale** (Mesh VPN) | Spring Cloud Gateway, mTLS |
+
+## 🚀 Key Scenarios (Design Patterns)
+
+### 1. 🎟️ Event & Coupon Service (High Traffic)
+* **Goal:** 선착순 쿠폰 발급 트래픽 분산
+* **Pattern:** **Redis Atomic Counter** & **MQ(Kafka) Buffering**
+* **Flow:** Client → API Gateway → Redis(재고 확인) → Kafka(발급 요청) → Async Consumer → DB Save
+* **Why:** RDBMS Lock 대기 시간을 제거하여 초당 처리량(TPS) 극대화
+
+### 2. 💳 Composite Payment (Distributed Transaction)
+* **Goal:** 포인트(Cloud) + 현금(On-Prem) 복합 결제의 데이터 정합성 보장
+* **Pattern:** **Saga Pattern (Choreography)**
+* **Flow:**
+    1. 포인트 차감 (Cloud) ✅
+    2. VPN 통신 ⚡️
+    3. 현금 출금 (On-Prem) ❌ **(실패 발생)**
+    4. 보상 이벤트 발행 (Rollback Event) 
+    5. 포인트 환불 처리 (Compensating Transaction) ✅
+
+### 3. 🔌 Resilience (Network Partition)
+* **Goal:** 하이브리드 클라우드 간 VPN 연결 유실 시 서비스 생존
+* **Pattern:** **Circuit Breaker** & **Event Sourcing**
+* **Flow:** 즉시 실패 처리 대신 요청을 Queue에 적재하고 사용자에게는 "접수됨(Processing)" 응답 반환 후, 네트워크 복구 시 순차 처리.
+
+## 🛠 Tech Stack Details
+
+### Backend (Microservices)
+* **Language:** Java 17, Kotlin
+* **Framework:** Spring Boot 3.2, Spring Cloud
+* **Build Tool:** Gradle
+
+### Infrastructure
+* **On-Premise Node:**
+    * OS: Ubuntu 22.04 LTS
+    * K8s: v1.28 (via Kubeadm)
+    * DB: Oracle 19c XE
+* **Cloud Node:**
+    * Platform: AWS EKS
+    * DB: Amazon Aurora MySQL (Serverless v2)
+
+## 🔧 Installation & Setup
+
+### Prerequisites
+* AWS CLI configured
+* Docker & Kubernetes CLI (kubectl)
+* Tailscale Auth Key
+
+### 1. On-Premise Setup (Core)
+```bash
+# Install K8s Cluster via Kubeadm
+cd infra/on-prem/k8s
+./install_k8s.sh
+
+# Deploy Oracle & Core Services
+kubectl apply -f core-db-statefulset.yaml
+kubectl apply -f core-services.yaml
+```
+
+### 2. Cloud Setup (Channel)
+
+```bash
+# Provision EKS & Aurora (Terraform)
+cd infra/cloud/terraform
+terraform init && terraform apply
+
+# Deploy Channel Services
+kubectl apply -f channel-services.yaml
+```
+
+📂 Project Structure
+
+woori-next-poc/
+├── 📂 docs/                  # 아키텍처 다이어그램 및 발표 자료
+├── 📂 infra/                 # IaC 및 K8s 설정
+│   ├── 📂 cloud/             # AWS Terraform, EKS Manifests
+│   └── 📂 on-prem/           # Kubeadm scripts, Oracle Pod specs
+├── 📂 backend/               # 마이크로서비스 소스코드
+│   ├── 📂 channel-api/       # [Cloud] 가입, 조회, Gateway
+│   ├── 📂 event-api/         # [Cloud] 쿠폰, Redis 로직
+│   ├── 📂 point-api/         # [Cloud] 포인트 관리
+│   ├── 📂 core-payment/      # [On-Prem] 계정계 결제
+│   └── 📂 core-user/         # [On-Prem] 고객 원장
+└── 📜 docker-compose.local.yml # 로컬 테스트용 환경
 
 
-<div style="text-align: left;">
-    <h1 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h1>
-    <br>
-    <a href=> <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white&link=https://velog.io/@juyeon/posts"> </a>
-    <a href=> <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link="> </a>
-    <a href=mailto:> <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:juyeon.it@gmail.com"> </a>
-</div>
-<br/>
-<br/>
+---
 
-<div style="text-align: left;"> 
-    <h1 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h1> 
-    <div style="text-align: left;" align="center;">
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=juyeonbaeck&theme=dracula&show_icons=true" />
-        <br/>
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=juyeonbaeck&layout=compact&theme=dark" />
-    </div>
-    
-</div>
+### 3. 정리할 전체 프로젝트 목차 (Directory Structure)
 
-</table>
+실제 개발 시 폴더 구조는 아래와 같이 잡으시면, MSA 서비스와 인프라 코드가 명확히 분리되어 보여주기 좋습니다.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer" width="100%" />
+```text
+woori-next-poc/
+├── README.md                 # 메인 설명서
+├── LICENSE
+├── .gitignore
+│
+├── 📁 docs/                  # 문서화
+│   ├── architecture.png      # 전체 구성도
+│   ├── sequence_saga.png     # 사가 패턴 흐름도
+│   └── seminar_ppt.pdf       # 세미나 발표 자료
+│
+├── 📁 infra/                 # 인프라 코드 (DevOps)
+│   ├── 📁 aws-cloud/         # AWS 관련
+│   │   ├── 📁 terraform/     # EKS, RDS, VPC 생성 코드
+│   │   └── 📁 k8s-manifests/ # Deployment, Service, HPA yaml
+│   │
+│   ├── 📁 on-premise/        # 온프레미스 관련
+│   │   ├── 📁 vagrant/       # 로컬 VM 테스트용 (옵션)
+│   │   ├── 📁 k8s-setup/     # kubeadm 설치 스크립트
+│   │   └── 📁 oracle-db/     # Oracle StatefulSet, PV, PVC yaml
+│   │
+│   └── 📁 network/           # 네트워크 연결
+│       └── tailscale-subnet.yaml # VPN 라우팅 설정
+│
+└── 📁 services/              # 애플리케이션 코드 (Backend)
+    ├── 📁 common-library/    # DTO, Util, Exception 공통 모듈
+    │
+    ├── 📁 cloud-zone/        # AWS 배포용 서비스
+    │   ├── 📁 api-gateway/   # Spring Cloud Gateway
+    │   ├── 📁 member-svc/    # Channel-User Service
+    │   ├── 📁 coupon-svc/    # Event-Coupon Service (Redis)
+    │   └── 📁 point-svc/     # Point Service
+    │
+    └── 📁 core-zone/         # On-Prem 배포용 서비스
+        ├── 📁 core-banking/  # Core-Payment + Core-User (모듈형 모놀리스 권장)
+        └── 📁 batch-job/     # 정산용 Spring Batch
+```
